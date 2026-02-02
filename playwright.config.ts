@@ -60,7 +60,7 @@ export default defineConfig({
       name: 'api-tests',
       testDir: './api-tests',
       use: {
-        baseURL: 'https://www.xyz.com',
+        baseURL: 'https://dummyjson.com',
         screenshot: 'off',
         video: 'off',
       },
